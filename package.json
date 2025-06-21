@@ -15,6 +15,7 @@
     "date-fns": "^3.6.0",
     "firebase": "^11.9.1",
     "framer-motion": "^11.3.28",
+    "html2canvas": "^1.4.1",
     "jspdf": "^3.0.1",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
